@@ -1,4 +1,4 @@
-# basic_web_scraping
+# learning_project
 My first time  doing web scraping  Road to data science learning.
 
 Analytics Focusing Area 
